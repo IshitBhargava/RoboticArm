@@ -61,5 +61,52 @@ SIGNAL: D11
 </pre>
 
 
+**HC-05/ HC-06 (Bluetooth):**
+<pre>VCC: Vin
+GND: GND
+TX: D2
+RX: D4
+</pre>
+
+**LED 1:**
+<pre>VCC: A0
+GND: GND
+</pre>
+
+**LED 2:**
+<pre>VCC: A1
+GND: GND
+</pre>
+
+**LED 3:**
+<pre>VCC: A2
+GND: GND
+</pre>
+
+**Button 1:**
+<pre>Terminal 1: 7
+Terminal 2: GND
+</pre>
+
+**Button 2:**
+<pre>Terminal 1: 8
+Terminal 2: GND
+</pre>
+
+**Button 3:**
+<pre>Terminal 1: 12
+Terminal 2: GND
+</pre>
+
+**Button 4:**
+<pre>Terminal 1: 13
+Terminal 2: GND
+</pre>
+
+**Button 5:**
+<pre>Terminal 1: RST
+Terminal 2: GND
+</pre>
+
 __________________________________________________________
 
