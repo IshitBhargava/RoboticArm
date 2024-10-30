@@ -2,7 +2,7 @@
 
 Build a robotic arm easily and control it using a Mobile App!
 
-#Things Needed:
+# Things Needed:
 
 <pre>To make this, you need:
 1x Arduino NANO
@@ -13,4 +13,14 @@ Build a robotic arm easily and control it using a Mobile App!
 1x USB Cable
 4x Buttons (Optional)
 3x 3 milimeter LEDs
+</pre>
+
+__________________________________________________________________________________________-
+
+# Connections:
+
+**Servo 1 (Grabber):**
+<pre>VCC: Vin
+GND: GND
+SIGNAL:
 </pre>
