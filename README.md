@@ -15,6 +15,10 @@ Build a robotic arm easily and control it using a Mobile App!
 3x 3 milimeter LEDs
 </pre>
 
+<pre>You will also need a Mechanical model of the arm. Sources are attached below:
+If you do not have a 3D printer: https://amzn.in/d/92INVpi
+If you do have a 3D printer: 
+</pre>
 __________________________________________________________________________________________
 
 # Connections:
