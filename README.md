@@ -108,5 +108,20 @@ Terminal 2: GND
 Terminal 2: GND
 </pre>
 
+**USB Cable:**
+<pre>5V: Vin
+Negative: GND
+</pre>
+
 __________________________________________________________
+
+# Steps:
+
+<pre>
+Firstly, upload the code to the Arduino NANO board. Note that you have to connect extra power cable before you connect the arduino.
+Second, Assemble the robotic arm using the User Manual. I suggest writing all Servos to 90 Debrees before assembling. You also may need to sand down the Servo horns. Using a rubber band in the shoulder servo will be quite helpful.
+Third, Power it on and all servos should move.
+Fourth, open the app and connect to the bluetooth module. Use the sliders to move and the 'Update Values' button to move Servos. The save positons and play movements buttons can be used for moving autonomously.
+Fifth, enjoy the robotic arm!
+</pre>
 
