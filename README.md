@@ -15,12 +15,51 @@ Build a robotic arm easily and control it using a Mobile App!
 3x 3 milimeter LEDs
 </pre>
 
-__________________________________________________________________________________________-
+__________________________________________________________________________________________
 
 # Connections:
 
-**Servo 1 (Grabber):**
+**Servo 1 (Grab):**
 <pre>VCC: Vin
 GND: GND
-SIGNAL:
+SIGNAL: D5
 </pre>
+
+
+**Servo 2 (Wrist Pitch):**
+<pre>VCC: Vin
+GND: GND
+SIGNAL: D6
+</pre>
+
+
+**Servo 3 (Wrist Roll):**
+<pre>VCC: Vin
+GND: GND
+SIGNAL: D3
+</pre>
+
+
+**Servo 4 (Elbow):**
+<pre>VCC: Vin
+GND: GND
+SIGNAL: D9
+</pre>
+
+
+**Servo 5 (Shoulder):**
+<pre>VCC: Vin
+GND: GND
+SIGNAL: D10
+</pre>
+
+
+**Servo 6 (Base):**
+<pre>VCC: Vin
+GND: GND
+SIGNAL: D11
+</pre>
+
+
+__________________________________________________________
+
