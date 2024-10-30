@@ -17,7 +17,7 @@ Build a robotic arm easily and control it using a Mobile App!
 
 <pre>You will also need a Mechanical model of the arm. Sources are attached below:
 If you do not have a 3D printer: <href>https://amzn.in/d/92INVpi</href>
-If you do have a 3D printer: 
+If you do have a 3D printer (How To Mechatronics): <href>https://cults3d.com/en/3d-model/various/arduino-based-robot-arm-howtomechatronics</href> 
 </pre>
 __________________________________________________________________________________________
 
